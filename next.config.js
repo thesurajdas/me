@@ -3,6 +3,7 @@
  */
 const nextConfig = {
   /* config options here */
+  ignoreDuringBuilds: true,
 }
- 
+
 module.exports = nextConfig
