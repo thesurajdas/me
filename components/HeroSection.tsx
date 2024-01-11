@@ -1,5 +1,4 @@
 "use client" // this is a client component
-/* eslint-disable */
 import React from "react"
 import Image from "next/image"
 import { Link } from "react-scroll/modules"
